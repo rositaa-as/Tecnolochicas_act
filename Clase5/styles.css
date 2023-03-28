@@ -1,0 +1,30 @@
+body{
+    background-color: lightpink;
+    color: #453857;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 , li {
+    color: purple;
+}
+
+h3{
+    font-size: 35px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-style: double;
+    border-width: 10px;
+    border-color: white;
+    padding: 30px;
+    margin: 30px;
+}
+
+footer{
+    background-color: beige;
+    
+
+}
